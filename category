@@ -1,0 +1,8 @@
+
+
+{
+   "title" : "category",
+   "decription" : "описание",
+   "image": "картинка",
+   "parent-category": "родительская категория"
+}
