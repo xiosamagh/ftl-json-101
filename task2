@@ -1,0 +1,39 @@
+{
+	"lessons" : [ 
+    {
+    	"title" : "урок1"
+      	"description" : "описание урока1",
+      	"obligatory" : true,
+      	"tasks": [
+      		{
+      			"title": "task1",
+      			"obligatory":true,
+      			"questions": [
+      				{
+      					"title":"список1"
+      				},
+
+      				{
+      					"title":"список2"
+      				}
+      			]
+      		},
+
+      		{
+      			"title": "task2",
+      			"obligatory":false,
+      			"questions": [
+      				{
+      					"title":"список1"
+      				},
+
+      				{
+      					"title":"список2"
+      				}
+      			]
+      		}
+
+      	]
+
+	}
+}
